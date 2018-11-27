@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*tablet view*/	
+@media (max-width: 768px)	{
+	h1{
+	
+	color: aqua; }
+}
+
+/*tablet view*/	
+@media (max-width: 400px)	{
+	h1{
+	
+	color: aquamarine; }
+}
